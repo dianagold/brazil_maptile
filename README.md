@@ -8,6 +8,7 @@ If you want to install this **maptile template** then you can use the code below
 ```
 maptile_install using "https://github.com/dianagold/brazil_maptile/raw/master/templates/brazil_counties_template.zip"
 ```
+If you want to understand how the template was built, check the [build_brazil_maptile](https://github.com/dianagold/brazil_maptile/blob/master/build_brazil_maptile.do) do file.
 
 ## Example output
 
