@@ -1,0 +1,41 @@
+{smcl}
+
+{pstd}
+{hi:maptile {hline 2} Geography: brazil_counties}
+
+
+{marker description}{...}
+{title:Description}
+
+{pstd}
+{hi:brazil_counties} generates a map of Brazil counties using 2015 IBGE boundaries.
+
+{pstd}It displays all the Brazilian counties based on IBGE 2015 shapefiles.
+
+
+{marker idvar}{...}
+{title:Geographic ID variable}
+
+{pstd}
+{hi:county_code} {hline 2} IBGE 7 digits county codes (codigo do municipio)
+
+{pstd}The original file calling this geography must contain a long variable named precisely county_code.
+
+
+{marker geography-specific-options}{...}
+{title:Geography-Specific Options}
+
+{pstd}
+{hi:stateoutline(}{it:linewidthstyle}{hi:)} {hline 2} overlays the map with a (potentially thicker) line on state boundaries.{p_end}
+
+{marker author}{...}
+{title:Author}
+
+{pstd}Diana Goldemberg{p_end}
+
+{marker license}{...}
+{title:License}
+
+{pstd}This geography template is released into the public domain.
+The shapefile it is derived from is in the public domain, and all code and documentation in this template is released into
+the public domain using the terms of the {browse "http://unlicense.org/":Unlicense}.{p_end}
