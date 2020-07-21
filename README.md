@@ -12,4 +12,4 @@ If you want to understand how the template was built, check the [build_brazil_ma
 
 ## Example output
 
-![LP_Brazil_covid_simulation_base](https://user-images.githubusercontent.com/43160181/87996461-421dc400-cac0-11ea-9437-07fec7e77d09.png)
+![LP_Examples](https://user-images.githubusercontent.com/43160181/88010264-7c985880-cae2-11ea-8b85-c2ce3cfedf34.PNG)
